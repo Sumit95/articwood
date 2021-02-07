@@ -11563,7 +11563,7 @@ html.full-page-slider body {
 
 @media (max-width: 767px) {
   .sm\:text-center {
-    text-align: center;
+    text-align: left;
   }
   .sm\:text-right {
     text-align: right;
